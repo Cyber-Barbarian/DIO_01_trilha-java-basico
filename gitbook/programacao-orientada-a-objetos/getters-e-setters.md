@@ -11,7 +11,7 @@ O método **Setter** define outro novo valor para o atributo especificado.&#x20;
 Vemos o código abaixo da criação de um objeto Aluno com nome e idade:
 
 ```java
-/arquivo Aluno.java
+//arquivo Aluno.java
 public class Aluno {
 	String nome;
 	int idade;
